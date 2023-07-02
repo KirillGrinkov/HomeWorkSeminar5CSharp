@@ -1,3 +1,1 @@
-# HomeWorkSeminar5CSharp
-# HomeWorkSeminar5CSharp
-# HomeWorkSeminar5CSharp
+# homeWork6CSharp
